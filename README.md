@@ -223,7 +223,9 @@ All visuals are cross-filtered for deep exploration.
 
 ## 📷 Dashboard Interaction -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/HR-Attrition-Performance-Satisfaction-Analytics/blob/main/HR%20Analysis%20Dashboard%20-%20Employee%20Attrition%20%26%20Performance.pbix">View HR Employee Analysis Dashboard</a>
+🔗 <a href="https://github.com/dimple-shah-au13/HR-Attrition-Performance-Satisfaction-Analytics/blob/main/HR%20Analysis%20Dashboard%20-%20Employee%20Attrition%20%26%20Performance.pbix">View HR Employee Analysis Dashboard</a>
+
+⚠️ Note: This dashboard file must be opened using **Microsoft Power BI Desktop** by clicking on View raw.
 
 
 ## 📌 Business Recommendations
@@ -263,7 +265,7 @@ Here’s a preview of the interactive dashboard:
 
 ## GITHUB -->>>>
 
-- <a href ="https://github.com/dimple-shah-au13/HR-Attrition-Performance-Satisfaction-Analytics/tree/main">GITHUB</a>
+🔗 <a href ="https://github.com/dimple-shah-au13/HR-Attrition-Performance-Satisfaction-Analytics/tree/main">GITHUB</a>
 
 
 ## ⭐ Support
