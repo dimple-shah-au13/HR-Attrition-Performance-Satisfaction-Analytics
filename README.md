@@ -71,6 +71,7 @@ Steps performed:
 ## 📌 Creating New Calculated Columns
 
 📌 Age Group Column :
+
     AgeGroup = 
     SWITCH(
         TRUE(),
@@ -82,6 +83,7 @@ Steps performed:
     )
 
 📌 Salary Slab Column:
+
     SalarySlab = 
     SWITCH(
         TRUE(),
@@ -221,11 +223,7 @@ All visuals are cross-filtered for deep exploration.
 
 ## 📷 Dashboard Interaction -->>>>
 
-- <a href="https://github.com/dimple-shah-au13/HR-Attrition-Performance-Satisfaction-Analytics/blob/main/Images/Employee Attrition Analysis.png">View Employee Attrition Analysis Dashboard</a>
-
-- <a href="https://github.com/dimple-shah-au13/HR-Attrition-Performance-Satisfaction-Analytics/blob/main/Images/Employee Performance Analysis.png">View Employee Performance Analysis Dashboard</a>
-
-- <a href="https://github.com/dimple-shah-au13/HR-Attrition-Performance-Satisfaction-Analytics/blob/main/Images/Employee Satisfaction Analysis.png">View Employee Satisfaction Analysis Dashboard</a>
+- <a href="https://github.com/dimple-shah-au13/HR-Attrition-Performance-Satisfaction-Analytics/blob/main/HR%20Analysis%20Dashboard%20-%20Employee%20Attrition%20%26%20Performance.pbix">View HR Employee Analysis Dashboard</a>
 
 
 ## 📌 Business Recommendations
@@ -250,11 +248,11 @@ All visuals are cross-filtered for deep exploration.
 
 Here’s a preview of the interactive dashboard:
 
-![Dashboard Screenshot](Images/Employee Attrition Analysis.png)
+![Dashboard Screenshot](Images/Employee%20Attrition%20Analysis.png)
 
-![Dashboard Screenshot](Images/Employee Performance Analysis.png)
+![Dashboard Screenshot](Images/Employee%20Performance%20Analysis.png)
 
-![Dashboard Screenshot](Images/Employee Satisfaction Analysis.png)
+![Dashboard Screenshot](Images/Employee%20Satisfaction%20Analysis.png)
 
 
 ## 👤 Author
